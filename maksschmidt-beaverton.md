@@ -12,4 +12,5 @@
 ### Attractions for Locals
 
 - Staying at home
--nothing
+- nothing
+- more stuff
