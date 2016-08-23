@@ -9,9 +9,12 @@
 
 ### Brew Pubs
 - Bridgeport
+- Burnside
 - Deschutes
 - Ecliptic
 - Hopworks
+- Laurelwood
+- Migration
 - Widmer
 
 ### Bars
