@@ -1,7 +1,9 @@
 # Portland, OR
 
 ### Restaurants
+- DOC
 - Imperial
+- Irving Street Kitchen
 - Noble Rot
 - Pok Pok
 
@@ -11,3 +13,8 @@
 - Ecliptic
 - Hopworks
 - Widmer
+
+### Bars
+- Expatriate
+- Olive or Twist
+- Whiskey Soda Lounge
