@@ -3,6 +3,7 @@
 ### Restaurants
 
 - Decarli
+- Nonna Emilia
 
 ### Attractions for Tourists
 
