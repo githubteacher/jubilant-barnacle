@@ -14,10 +14,18 @@
 - Ecliptic
 - Hopworks
 - Laurelwood
-- Migration
 - Widmer
 
 ### Bars
 - Expatriate
 - Olive or Twist
 - Whiskey Soda Lounge
+
+### Attractions
+- 4Ts trail
+- Willamette waterfront
+- Oaks Park
+
+### Nearby
+- Mt Hood
+- Oregon coast
