@@ -12,6 +12,7 @@
 - Capilano Syspension Bridge
 - Vancouver Aquarium
 - Granville Island
+- Whistler (1.5 - 2 hrs)
 
 
 ###Attractions for Locals
